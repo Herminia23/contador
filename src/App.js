@@ -10,7 +10,7 @@ const App = () => {
   }
   return (
     <div className="App">
-    <h1>Hola este es mi contador </h1>
+    <h1>Hola, soy herminia y  este es mi contador </h1>
     <hr />
     <h2 className ="text-center" >{ valor }</h2>
     <hr/>
